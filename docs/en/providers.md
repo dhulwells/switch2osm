@@ -41,11 +41,11 @@ The following companies host OpenStreetMap tiles.
 * [Jawg](https://www.jawg.io/){: target=_blank}, France
 * [LatLng](https://www.latlng.work/){: target=_blank}, US
 * [Mapbox](http://mapbox.com/){: target=_blank}, US
+* [MapIron](https://mapiron.com){: target=_blank}, US
 * [MapTiler](https://www.maptiler.com/){: target=_blank}, Switzerland
 * [MapTiles API](https://www.maptilesapi.com/){: target=_blank}, US
 * [Maptoolkit](https://www.maptoolkit.com/){: target=_blank}, Germany/Austria
 * [Nextzen](https://www.nextzen.org/){: target=_blank}, US
-* [PinSharing](https://pinsharing.com){: target=_blank}, US
 * [SmartMaps by YellowMap](https://www.smartmaps.net/en/){: target=_blank}, Germany
 * [Stadia Maps](https://stadiamaps.com){: target=_blank}, US
 * [Stamen](https://stamen.com/){: target=_blank}, US
